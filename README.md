@@ -31,18 +31,31 @@ Architecture
 The VPC architecture consists of the following components:
 
 VPC: 1
+
 Public Subnets: 3
+
 Private Subnets: 3
+
 Internet Gateway: 1
+
 Route Table: 1
+
 Route Table Associations: 3
+
 Security Group: 1
+
 Key Pair: 1
+
 EC2 Instance: 1
+
 EBS Volume: 1
+
 Volume Attachment: 1
+
 Please note that the specific configuration details, such as the region and availability zones, can be customized by modifying the variables in the variables.tf file.
 
 
+
 Best regards,
+
 Yas
